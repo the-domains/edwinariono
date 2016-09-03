@@ -1,0 +1,14 @@
+layout_spectrum: 0.3333333
+color:
+  saturation: 0.2153534
+  lightness: 0.1935769
+  brandStrength: 0.6379929
+  brandColors:
+    - '#FFFFFF'
+    - '#4D211E'
+    - '#BF6D58'
+    - '#CC2537'
+    - '#FD97BF'
+  rhythmicContrast: 0.2889837
+typography_spectrum: 0.8553314
+name: Edwinariono
